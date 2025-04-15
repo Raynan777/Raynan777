@@ -22,12 +22,15 @@ Gosto de resolver problemas, explorar novas ferramentas e contribuir para projet
 
 ---
 
-### 🖥️ Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raynan777&layout=compact&langs_count=10&theme=tokyonight)
+### 🧠 Linguagens mais usadas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raynanoli8&layout=compact&langs_count=10&theme=tokyonight" />
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raynan777&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raynan777&theme=tokyonight" />
