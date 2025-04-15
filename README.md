@@ -1,8 +1,10 @@
-<h2 align="left">👋 Olá! Eu sou o Raynan Maciel</h2>
+## 👋 Olá! Eu sou o Raynan Maciel
 
-###
+Sou um entusiasta da tecnologia, apaixonado por aprender e construir soluções que fazem a diferença. Atualmente estou desenvolvendo minhas habilidades em programação, bancos de dados e tecnologias modernas com foco em me tornar um profissional completo na área de tecnologia. 🚀
 
-<p align="left">Sou um entusiasta da tecnologia, apaixonado por aprender e construir soluções que façam a diferença. Atualmente estou desenvolvendo minhas habilidades em programação, bancos de dados e tecnologias modernas com foco em me tornar um profissional completo na área de tecnologia. 🚀<br><br>Gosto de resolver problemas, explorar novas ferramentas e contribuir para projetos que envolvam inovação e impacto real.</p>
+Gosto de resolver problemas, explorar novas ferramentas e contribuir para projetos que envolvam inovação e impacto real.
+
+---
 
 ### 🧠 Linguagens mais usadas
 
