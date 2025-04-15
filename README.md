@@ -25,7 +25,7 @@ Gosto de resolver problemas, explorar novas ferramentas e contribuir para projet
 ### 🧠 Linguagens mais usadas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raynanoli8&layout=compact&langs_count=10&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raynan777&layout=compact&langs_count=10&theme=tokyonight" />
 </div>
 
 ---
