@@ -4,7 +4,7 @@
 
 <p align="left">Sou um entusiasta da tecnologia, apaixonado por aprender e construir soluções que façam a diferença. Atualmente estou desenvolvendo minhas habilidades em programação, bancos de dados e tecnologias modernas com foco em me tornar um profissional completo na área de tecnologia. 🚀<br><br>Gosto de resolver problemas, explorar novas ferramentas e contribuir para projetos que envolvam inovação e impacto real.</p>
 
-###
+### 🧠 Linguagens mais usadas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
