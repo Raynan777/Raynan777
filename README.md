@@ -1,9 +1,6 @@
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWk2MGhnNjBkMjF5azNzdWd6cndiYWthdzRoNWZsbGIwdnpnM2lybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwdIuRJiAIqHwA/giphy.gif" width="100" alt="Gif com saudações" />
-</div>
-
-
 ## 👋 Olá! Eu sou o Raynan Maciel
+
+<img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 
 Sou um entusiasta da tecnologia, apaixonado por aprender e construir soluções que fazem a diferença. Atualmente estou desenvolvendo minhas habilidades em programação, bancos de dados e tecnologias modernas com foco em me tornar um profissional completo na área de tecnologia. 🚀
 
