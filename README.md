@@ -1,8 +1,8 @@
 ## 🌟 Sobre Mim
 
-Eu sou a **Francine**, desenvolvedora entusiasta por tecnologia e aprendizado contínuo. Atualmente curso **Engenharia de Software** e aplico meus conhecimentos em projetos Full Stack que são teoria, prática e propósito.
+Eu sou o Raynan, desenvolvedora entusiasta por tecnologia e aprendizado contínuo. Atualmente curso Analise e Desenvolvimento de Sistemas.
 
-Estou sempre em busca de experiências que me desafiem, me conecte com pessoas incríveis e me faça crescer como profissional e pessoa. 🤝 ✨
+Estou sempre em busca de experiências novas que me desafiem, e me faça crescer como profissional e pessoa. 
 
 <p align="center">
   <a href="#"> <img src="https://img.shields.io/badge/PORTFOLIO-623CEA?style=for-the-badge&logo=github&logoColor=white" /> </a>
