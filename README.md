@@ -22,6 +22,7 @@ Gosto de resolver problemas, explorar novas ferramentas e contribuir para projet
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
+---
 
 ### 📬 Contato
 
@@ -37,12 +38,15 @@ Gosto de resolver problemas, explorar novas ferramentas e contribuir para projet
   </a>
 </p>
 
+---
 
 ### 📊 Estatísticas GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raynan777&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raynan777&theme=tokyonight" />
 </div>
+
+---
 
 ### 🌱 Sempre aprendendo algo novo!
 
