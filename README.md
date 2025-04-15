@@ -24,6 +24,4 @@ Estou sempre em busca de experiências novas que me desafiem, e me faça crescer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raynan777&theme=tokyonight" />
 </div>
 
----
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Raynan777&theme=react-dark&hide_border=true)
