@@ -14,16 +14,16 @@ Estou sempre em busca de experiências novas que me desafiem, e me faça crescer
 ---
 
 ### 🖥️ Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francine02&layout=compact&langs_count=10&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raynan777&layout=compact&langs_count=10&theme=tokyonight)
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Francine02&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Francine02&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raynan777&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raynan777&theme=tokyonight" />
 </div>
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Francine02&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Raynan777&theme=react-dark&hide_border=true)
