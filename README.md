@@ -2,9 +2,9 @@
 
 <img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 
-Sou um entusiasta da tecnologia, apaixonado por aprender e construir soluções que fazem a diferença. Atualmente estou desenvolvendo minhas habilidades em programação, bancos de dados e tecnologias modernas com foco em me tornar um profissional completo na área de tecnologia. 🚀
+Sou um entusiasta da tecnologia, apaixonado por aprender e construir soluções que façam a diferença. Constantemente estou desenvolvendo minhas habilidades em programação, bancos de dados e tecnologias modernas com foco em me tornar um profissional completo. 
 
-Gosto de resolver problemas, explorar novas ferramentas e contribuir para projetos que envolvam inovação e impacto real.
+Tenho grande interesse por inovação, resolução de problemas e participação em projetos que promovem transformação e impacto positivo. Estou sempre em busca de novos conhecimentos, Networking e oportunidades para crescer profissionalmente..
 
 ---
 
